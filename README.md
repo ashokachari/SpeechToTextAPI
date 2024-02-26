@@ -17,6 +17,8 @@ Now open VS CODE
 
 https://code.visualstudio.com/docs/python/tutorial-flask
 
+python -m pip install flask
+
 python -m venv .venv
 
 
